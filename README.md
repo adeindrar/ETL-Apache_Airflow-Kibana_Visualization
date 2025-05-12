@@ -46,7 +46,7 @@ Untuk memudahkan proses pengambilan data diperlukan adanya otomatisasi didalamny
 
 1. Clone repositori ini ke dalam lokal Anda:
     ```bash
-    git clone https://github.com/ciputrawangsa/Visualization-Airflow-Kibana.git
+    git clone https://github.com/adeindrar/ETL-Apache_Airflow-Kibana_Visualization.git
     ```
 
 2. Buat sebuah folder baru di local computer, misalkan **project-ETL**.
